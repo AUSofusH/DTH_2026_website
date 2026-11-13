@@ -27,7 +27,8 @@ OCR is very useful for converting scanned or photographed images of books, text,
 Based on the available information, I would absolutely use Tesseract, and I plan on using it in the future. If the software has issues, the lead developer and contributors are quick to address them, and an outage only prevents me from doing new OCR scans. I could leave it again if needed, as Google cloud (n.d.) has some OCR tools available for free.
 
 ### Reference List
-Gepris. (n.d.). Optimized use of OCR methods – Tesseract as a component in the OCR-D workflow. Gepris - Deutsche Forschungsgemainschaft. Retrieved November 13, 2026, from https://gepris.dfg.de/project/394264782 
+Gepris. (n.d.). Optimized use of OCR methods – Tesseract as a component in the OCR-D workflow. Gepris - Deutsche Forschungsgemainschaft. Retrieved November 13, 2026, from 
+https://gepris.dfg.de/project/394264782 
 
 Github. (2025). About issues - GitHub Docs. GitHub Docs. https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues 
 
@@ -37,14 +38,18 @@ Goodwin, M. (2024, May 30). Service level agreement. Ibm.Com. https://www.ibm.co
 
 Google. (n.d.). OCR with Google AI. Google Cloud. Retrieved November 13, 2026, from https://cloud.google.com/use-cases/ocr 
 
-Ho-Him, C., & Chan, K. (2026, November 13). Global Microsoft outage hits companies and governments. Associated Press. AP News. https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a 
+Ho-Him, C., & Chan, K. (2026, November 13). Global Microsoft outage hits companies and governments. Associated Press. AP News. 
+https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a 
 
-Microsoft. (n.d.). Licensing documents, SLA. Www.Microsoft.Com. Retrieved November 13, 2026, from https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services 
+Microsoft. (n.d.). Licensing documents, SLA. Www.Microsoft.Com. Retrieved November 13, 2026, from 
+https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services 
 
 Open Source Initiative. (n.d.). The MIT license. Open Source Initiative. Retrieved November 13, 2026, from https://opensource.org/license/mit 
 
 Tal, L. (2026). Apache license 2.0 explained. Snyk. https://snyk.io/articles/apache-license/ 
 
-Weil, S. (2026, August 15). GitHub - tesseract-OCR/tesseract: Tesseract open source OCR engine (main repository). GitHub. https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file 
+Weil, S. (2026, August 15). GitHub - tesseract-OCR/tesseract: Tesseract open source OCR engine (main repository). GitHub. 
+https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file 
 
-Wilkins, J. (2026, October 8). Adobe in trouble after someone reverse engineered adobe creative suite and released it as open source. Futurism. https://futurism.com/future-society/adobe-creative-suite-software-open-source-artcraft 
+Wilkins, J. (2026, October 8). Adobe in trouble after someone reverse engineered adobe creative suite and released it as open source. Futurism. 
+https://futurism.com/future-society/adobe-creative-suite-software-open-source-artcraft 
