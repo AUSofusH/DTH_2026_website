@@ -3,7 +3,7 @@
 ## This is the headline of your first page
 ## The Advantages of open source software: 
 
-## Response time: 
+### Response time: 
 
 Depending on the size of the project and number of contributors, open source projects can rapidly identify bugs and roll out bugfixes. Users of the software can very easily report issues, in the case of Github, through the "issue tracker", and other users experiencing similar problems are able to see if the issue is known, and whether a fix is in progress (Github, 2025). If a fix is not actively worked on, a skilled user may even submit their own fix to be merged into the project, via Github's "pull request" feature, which lets the repository members review and add outside contributions quickly (Github, 2026).  
 
