@@ -10,7 +10,7 @@ Tesseract OCR Engine is a tool for optical text recognition, and enables you to 
 
 OCR is very useful for converting scanned or photographed images of books, text, and DRM protected documents into machine-readable text. These documents would otherwise require manual reading and copying, while also preventing the use of scrapers and LLMs for analysis and data collection. 
 
-## The five checks: 
+### The five checks: 
 
 **License:** Tesseract is covered under Apache 2.0, which allows for the use and redistribution of the software, provided certain conditions are met, like retaining copyright notices and including a copy of the original license. (Tal, 2026). 
 
