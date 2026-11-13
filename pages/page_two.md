@@ -4,7 +4,7 @@
 
 ### Liability: 
 
-While the MIT License is great from protecting developers by limiting liability, allowing them to work on their project without fear of litigation and legal disputes, this can also reduce the potential attractiveness of adoption by large organizations. The MIT license explicitly states: "The software is provided "as is", without warranty of any kind" and "in no event shall the authors or copyright holders be liable for any claim, damages or other liability" (Open Source Initiative, n.d.). This means if a company was to use an open-source MIT licensed software in their operations, and said software suddenly stopped functioning, the company would have no legal recourse against the developers. The risk of lost revenue from broken software could very well dissuade larger, less flexible organizations from using open source products.  
+While the MIT License is great for protecting developers by limiting liability, allowing them to work on their project without fear of litigation and legal disputes, this can also reduce the potential attractiveness of adoption by large organizations. The MIT license explicitly states: "The software is provided "as is", without warranty of any kind" and "in no event shall the authors or copyright holders be liable for any claim, damages or other liability" (Open Source Initiative, n.d.). This means if a company was to use an open-source MIT licensed software in their operations, and said software suddenly stopped functioning, the company would have no legal recourse against the developers. The risk of lost revenue from broken software could very well dissuade larger, less flexible organizations from using open source products.  
 
 ### Reliance on volunteerism: 
 
