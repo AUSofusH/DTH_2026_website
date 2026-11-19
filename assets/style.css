@@ -225,7 +225,15 @@ main img {
 .btnDisabled:hover {
   color: var(--light-blue);
   cursor: auto;
+  
   transform: scale(1);
 }
 
 #page_two h2 { color: var(--black); }
+
+}
+
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
